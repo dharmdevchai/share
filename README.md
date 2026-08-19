@@ -1,1 +1,1 @@
-##This repo is for sharing somthing. 
+##This repo is for sharing somthing with ownself or with other. 
